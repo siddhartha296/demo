@@ -1,0 +1,24 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+}
+
+#prankButton {
+    padding: 20px 40px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+#prankImage {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+}
